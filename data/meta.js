@@ -1,0 +1,1 @@
+window.CloudData=window.CloudData||{};window.CloudData.meta={"tradeDate":"2026-10-16","fetchedAt":"2026-10-16T15:31:38+08:00","source":"AKShare → 东方财富公开行情（本地快照）","markets":{"a":5568,"etf":1653,"cb":307,"hk":2441}};
